@@ -1,0 +1,12 @@
+{
+    "extends": "@tsconfig/node18/tsconfig.json",
+    "compilerOptions": {
+        "strict": false,
+        "removeComments": true,
+        "declaration": false,
+        "sourceMap": true,
+        "outDir": "out",
+        "resolveJsonModule": true,
+        "noImplicitThis": false
+    }
+}
